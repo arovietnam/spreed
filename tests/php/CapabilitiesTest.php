@@ -48,6 +48,7 @@ class CapabilitiesTest extends TestCase {
 					'no-ping',
 					'system-messages',
 					'mention-flag',
+					'invite-by-mail',
 				],
 			],
 		], $capabilities->getCapabilities());
